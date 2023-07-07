@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mp3 Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="download">Download</string>
+    <string name="youtube_link">YouTube Link</string>
+    <string name="destination_folder">Destination Folder</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+</resources>
